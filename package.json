@@ -1,0 +1,11 @@
+{
+  "name": "windows-named-pipe",
+  "version": "1.0.0",
+  "description": "Creates a Windows named pipe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
